@@ -1,0 +1,24 @@
+{
+  "name": "recommended-structure",
+  "version": "1.0.0",
+  "description": "Estructura de carpetas recomendada en Node.js",
+  "main": "index.js",
+  "scripts": {
+	"serve": "serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Enorma/recommended-structure.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Enorma/recommended-structure/issues"
+  },
+  "homepage": "https://github.com/Enorma/recommended-structure#readme",
+  "devDependencies": {
+    "server": "^1.0.18"
+  }
+}
