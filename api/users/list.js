@@ -1,14 +1,4 @@
-const users = [
-	{
-		name: "joel"
-	},
-	{
-		name: "kike"
-	},
-	{
-		name: "gordolfo gelatino"
-	}
-]
+const users = require("./repository");
 
 function listUsers(req,res) {
 	res.json(users);
